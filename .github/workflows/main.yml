@@ -1,6 +1,4 @@
 name: Reproduce discussion-10339
-
-
 on:
   push:
     branches: [ "main" ]
